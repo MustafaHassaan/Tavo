@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Me\FD\Tavoapp\tavo\build\windows\x64\CMakeFiles\80df7b9b32c1fb07ffea8e39c86b1c75\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6597C5B8-3B8E-3498-B77B-7B1D5893487F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\ME\FD\TAVOAPP\TAVO\BUILD\WINDOWS\X64\CMAKEFILES\F6180723B581DF165577A067C2A2FCD8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Me/FD/Tavoapp/tavo/windows -BC:/Me/FD/Tavoapp/tavo/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Me/FD/Tavoapp/tavo/build/windows/x64/tavo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.tavo.app-debug-6:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.tavo.app-main-1:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tavo.app-debug-6:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.tavo.app-main-1:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tavo.app-debug-6:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.tavo.app-main-1:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tavo.app-debug-6:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tavo.app-main-1:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-debug-6:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-main-1:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-debug-6:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-main-1:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-debug-6:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-main-1:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-debug-6:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-main-1:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-debug-6:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-main-1:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.example.tavo.app-debug-6:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tavo.app-main-1:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-debug-6:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mostafa\\.gradle\\daemon\\8.10.2\\com.example.tavo.app-main-1:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

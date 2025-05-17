@@ -1,0 +1,1 @@
+ C:\\Me\\FD\\Tavoapp\\tavo\\.dart_tool\\flutter_build\\dda89c8c9e8dafa3a3798fd0935d6d60\\native_assets.json: 
